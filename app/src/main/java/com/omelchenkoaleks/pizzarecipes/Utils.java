@@ -5,7 +5,35 @@ import java.net.PortUnreachableException;
 public class Utils {
     public static final String PIZZA_1_TITLE = "Preheat an oven to 425 degrees F (220 degrees C).";
     public static final String PIZZA_1_DESCRIPTION = "Spread the vinaigrette over the pizza crust. Sprinkle 1/4 cup of blue cheese evenly over the crust, followed by the mozzarella cheese. Arrange the sliced pears over the cheese, and sprinkle with the toasted walnuts.";
-    public static final String PIZZA_1_RECIPE = "Preheat an oven to 425 degrees F (220 degrees C).\n" +
+    public static final String PIZZA_1_RECIPE = "What to do when your 8-year old nephew comes to visit? Make pizza, of course! Well, not of course, actually. I didn’t think of it until we exhausted Sorry, Monopoly, and gin rummy. But it did turn out to be a brilliant idea as my father had just received a baking stone for Christmas, and my nephew loves pizza.\n" +
+            "\n" +
+            "I told him if he helped me make it I would talk about him on my website and he would be famous. That seemed to get his attention. He thought the dough was “slimy and gross” but he loved picking his own toppings, and the finished product was “awesome”.\n" +
+            "\n" +
+            "The following method I patched together from recipes in both Joy of Cooking and Cook’s Illustrated’s The Best Recipe. The pizza dough recipe makes enough dough for two 10-12 inch pizzas.\n" +
+            "\n" +
+            "Next time I’ll be a bit more patient with stretching out the dough so I can get it even thinner. Look to the end of this post for some excellent links about pizza from other food bloggers.\n" +
+            "\nWhat to do when your 8-year old nephew comes to visit? Make pizza, of course! Well, not of course, actually. I didn’t think of it until we exhausted Sorry, Monopoly, and gin rummy. But it did turn out to be a brilliant idea as my father had just received a baking stone for Christmas, and my nephew loves pizza.\n" +
+            "\n" +
+            "I told him if he helped me make it I would talk about him on my website and he would be famous. That seemed to get his attention. He thought the dough was “slimy and gross” but he loved picking his own toppings, and the finished product was “awesome”.\n" +
+            "\n" +
+            "The following method I patched together from recipes in both Joy of Cooking and Cook’s Illustrated’s The Best Recipe. The pizza dough recipe makes enough dough for two 10-12 inch pizzas.\n" +
+            "\n" +
+            "Next time I’ll be a bit more patient with stretching out the dough so I can get it even thinner. Look to the end of this post for some excellent links about pizza from other food bloggers.\n" +
+            "\nWhat to do when your 8-year old nephew comes to visit? Make pizza, of course! Well, not of course, actually. I didn’t think of it until we exhausted Sorry, Monopoly, and gin rummy. But it did turn out to be a brilliant idea as my father had just received a baking stone for Christmas, and my nephew loves pizza.\n" +
+            "\n" +
+            "I told him if he helped me make it I would talk about him on my website and he would be famous. That seemed to get his attention. He thought the dough was “slimy and gross” but he loved picking his own toppings, and the finished product was “awesome”.\n" +
+            "\n" +
+            "The following method I patched together from recipes in both Joy of Cooking and Cook’s Illustrated’s The Best Recipe. The pizza dough recipe makes enough dough for two 10-12 inch pizzas.\n" +
+            "\n" +
+            "Next time I’ll be a bit more patient with stretching out the dough so I can get it even thinner. Look to the end of this post for some excellent links about pizza from other food bloggers.\n" +
+            "\nWhat to do when your 8-year old nephew comes to visit? Make pizza, of course! Well, not of course, actually. I didn’t think of it until we exhausted Sorry, Monopoly, and gin rummy. But it did turn out to be a brilliant idea as my father had just received a baking stone for Christmas, and my nephew loves pizza.\n" +
+            "\n" +
+            "I told him if he helped me make it I would talk about him on my website and he would be famous. That seemed to get his attention. He thought the dough was “slimy and gross” but he loved picking his own toppings, and the finished product was “awesome”.\n" +
+            "\n" +
+            "The following method I patched together from recipes in both Joy of Cooking and Cook’s Illustrated’s The Best Recipe. The pizza dough recipe makes enough dough for two 10-12 inch pizzas.\n" +
+            "\n" +
+            "Next time I’ll be a bit more patient with stretching out the dough so I can get it even thinner. Look to the end of this post for some excellent links about pizza from other food bloggers.\n" +
+            "\nPreheat an oven to 425 degrees F (220 degrees C).\n" +
             "Place the pizza crust on a pizza pan. Bake in the preheated oven until just crisp, about 5 minutes.\n" +
             "Meanwhile, combine the garlic, Dijon mustard, rosemary, and vinegar in a food processor or blender. Turn on, and drizzle in the olive oil slowly until the dressing has thickened. Quickly pulse in 1/4 cup of blue cheese; season to taste with salt and pepper.\n" +
             "Spread the vinaigrette over the pizza crust. Sprinkle 1/4 cup of blue cheese evenly over the crust, followed by the mozzarella cheese. Arrange the sliced pears over the cheese, and sprinkle with the toasted walnuts.\n" +
